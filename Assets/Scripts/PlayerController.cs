@@ -34,12 +34,14 @@ public class PlayerController : MonoBehaviour
         controller.Move(move * speed * Time.deltaTime);
     }
 
+
     void OnTriggerEnter(Collider other)
     {
         if (other.tag == "MusicPlayer")
         {
             audioSource.clip = droneMusic;
             audioSource.Play();
+            audioSource.loop = true;
             Destroy(other.gameObject, 1);
         }
     }
