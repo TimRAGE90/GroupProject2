@@ -1,0 +1,288 @@
+Perforce password is empty. Ignoring login request.
+Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+Error: Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+e32:Path 'C:/Users/Tray0/Desktop/GroupProject2\\testForProjectRootMapping' is not under client's root 'C:\\Users\\Tray0\\Perforce\\Monkey'.\n
+Perforce password is empty. Ignoring login request.
+Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+Error: Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+e32:Path 'C:/Users/Tray0/Desktop/GroupProject2\\testForProjectRootMapping' is not under client's root 'C:\\Users\\Tray0\\Perforce\\Monkey'.\n
+Perforce password is empty. Ignoring login request.
+Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+Error: Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+e32:Path 'C:/Users/Tray0/Desktop/GroupProject2\\testForProjectRootMapping' is not under client's root 'C:\\Users\\Tray0\\Perforce\\Monkey'.\n
+Perforce password is empty. Ignoring login request.
+./testForProjectRootMapping - file(s) not in client view.
+
+w32:./testForProjectRootMapping - file(s) not in client view.\n
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/AudioManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ClusterInputManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/DynamicsManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorBuildSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/GraphicsSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/InputManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/NavMeshAreas.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/Physics2DSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/PresetManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectVersion.txt - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/QualitySettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TagManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TimeManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/UnityConnectSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VFXManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VersionControlSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/XRSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/manifest.json - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/packages-lock.json - file(s) not in client view.
+
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/manifest.json - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/packages-lock.json - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/AudioManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ClusterInputManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/DynamicsManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorBuildSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/GraphicsSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/InputManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/NavMeshAreas.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/Physics2DSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/PresetManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectVersion.txt - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/QualitySettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TagManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TimeManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/UnityConnectSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VFXManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VersionControlSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/XRSettings.asset - file(s) not in client view.\n
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/monkeylevel.controller - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/monkeylevel.controller.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist1.anim - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist1.anim.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2.anim - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2.anim.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2_model.controller - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2_model.controller.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist3.anim - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist3.anim.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model (1).controller - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model (1).controller.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model.controller - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model.controller.meta - file(s) not in client view.
+
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/monkeylevel.controller - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/monkeylevel.controller.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist1.anim - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist1.anim.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2.anim - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2.anim.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2_model.controller - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist2_model.controller.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist3.anim - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist3.anim.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model (1).controller - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model (1).controller.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model.controller - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/scientist_model.controller.meta - file(s) not in client view.\n
+p1:-1 0 Change 41 created.
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/... - file(s) not in client view.
+
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/... - file(s) not in client view.\n
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Audio/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Level/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Materials/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Models/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scenes/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scripts/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/TextMesh Pro/... - file(s) not on client.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Textures/... - file(s) not on client.
+
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Audio/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Level/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Materials/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Models/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scenes/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scripts/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/TextMesh Pro/... - file(s) not on client.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Textures/... - file(s) not on client.\n
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Audio/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Audio.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Level/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Level.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Materials/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Materials.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Models/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Models.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scenes/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scenes.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scripts/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scripts.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/TextMesh Pro/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/TextMesh Pro.meta - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Textures/... - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Textures.meta - file(s) not in client view.
+
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Animations/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Audio.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Audio/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Level.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Level/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Materials.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Materials/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Models.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Models/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scenes.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scenes/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scripts.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Scripts/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/TextMesh Pro.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/TextMesh Pro/... - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Textures.meta - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Assets/Textures/... - file(s) not in client view.\n
+Perforce password is empty. Ignoring login request.
+./testForProjectRootMapping - file(s) not in client view.
+
+w32:./testForProjectRootMapping - file(s) not in client view.\n
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/AudioManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ClusterInputManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/DynamicsManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorBuildSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/GraphicsSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/InputManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/NavMeshAreas.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/Physics2DSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/PresetManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectVersion.txt - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/QualitySettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TagManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TimeManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/UnityConnectSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VFXManager.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VersionControlSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/XRSettings.asset - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/manifest.json - file(s) not in client view.
+
+C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/packages-lock.json - file(s) not in client view.
+
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/manifest.json - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/Packages/packages-lock.json - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/AudioManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ClusterInputManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/DynamicsManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorBuildSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/EditorSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/GraphicsSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/InputManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/NavMeshAreas.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/Physics2DSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/PresetManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/ProjectVersion.txt - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/QualitySettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TagManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/TimeManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/UnityConnectSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VFXManager.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/VersionControlSettings.asset - file(s) not in client view.\n
+w1:C:/Users/Tray0/Perforce/Monkey/GroupProject2/ProjectSettings/XRSettings.asset - file(s) not in client view.\n
+Perforce password is empty. Ignoring login request.
+Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+Error: Path 'C:/Users/Tray0/Desktop/GroupProject2\testForProjectRootMapping' is not under client's root 'C:\Users\Tray0\Perforce\Monkey'.
+
+e32:Path 'C:/Users/Tray0/Desktop/GroupProject2\\testForProjectRootMapping' is not under client's root 'C:\\Users\\Tray0\\Perforce\\Monkey'.\n

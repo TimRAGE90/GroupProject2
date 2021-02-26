@@ -20,13 +20,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        if (Input.GetKey("escape"))
-        {
-            Application.Quit();
-        }
-
-
         float x = Input.GetAxis ("Horizontal");
         float z = Input.GetAxis ("Vertical");
 
